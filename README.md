@@ -93,6 +93,13 @@ Fully responsive with breakpoints at:
 
 ---
 
+## Local development
+
+1. Clone this repository
+2. Open `index.html` in your browser
+3. That's it — no build process needed.
+
+---
 
 ## License
 
