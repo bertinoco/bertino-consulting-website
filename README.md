@@ -39,8 +39,6 @@ Consistent 8px base unit: `8px, 16px, 24px, 32px, 48px, 64px, 96px`
 - **Easing:** `cubic-bezier(0.16, 1, 0.3, 1)` (ease-out spring)
 - All animations respect `prefers-reduced-motion`
 
----
-
 ### Responsive
 
 Fully responsive with breakpoints at:
